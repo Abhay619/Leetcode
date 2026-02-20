@@ -10,17 +10,17 @@ public:
 
         int g=0;
         int h=k-1;
-        double max = sum;
+        double maxSum = sum;
         while(h+1<n)
         {
             sum = sum - nums[g] + nums[h+1];
             g++; h++;
-            if(max < sum)
-            max = sum;
+            if(maxSum < sum)
+            maxSum = sum;
             // cout<<"sum :"<<sum<<" g"<<g<<" h "<<h<<" max "<<max<<endl;
         }
-        cout<<max;
-        double ans = max / k;
+        // cout<<maxSum;
+        double ans = maxSum / k;
         return ans;
     }
 };
