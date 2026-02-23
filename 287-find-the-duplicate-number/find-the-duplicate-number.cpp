@@ -1,29 +1,14 @@
 class Solution {
 public:
     int findDuplicate(vector<int>& nums) {
-        unordered_map <int, int> myMap;
-        for(int i=0; i< nums.size(); i++)
+        int ans;
+        for(int i = 0; i < nums.size(); i++)
         {
-            if(myMap.count(nums[i]) == 1)
-            {
-                myMap[nums[i]]++;
-            }
-            else
-            {
-                myMap[nums[i]] = 1;
-            }
-        }
+            if(nums[abs(nums[i])] < 0)
+            ans = abs(nums[i]);
 
-        auto firstElement = myMap.begin();
-        int max_key = firstElement -> first, max_value = firstElement -> second;
-        for(auto element : myMap){
-            if(element.second > max_value)
-            {
-                max_value = element.second;
-                max_key = element.first;
-            }
+            nums[abs(nums[i])] *= -1;
         }
-
-        return max_key;
+        return ans;
     }
 };
