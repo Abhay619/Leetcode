@@ -1,28 +1,29 @@
 class Solution {
 public:
+    int bs(vector<int>& nums, int start, int x) {
+        int end = nums.size() - 1;
+        int mid;
+        while (start <= end) {
+            mid = (start + end) / 2;
+            if (nums[mid] == x)
+                return mid;
+            else if (nums[mid] > x) {
+                end = mid - 1;
+            } else {
+                start = mid + 1;
+            }
+        }
+        return -1;
+    }
+
     int findPairs(vector<int>& nums, int k) {
         sort(nums.begin(), nums.end());
-        set<pair<int,int>> myPair;
+        set<pair<int, int>> myPair;
 
-        // for (int i = 0; i < nums.size(); i++)
-        //     cout << nums[i];
-
-        int i = 0, j = 1;
-        // cout << k << endl;
-        while (j < nums.size()) {
-            // cout << "j: " << nums[j] << " i: " << nums[i] << endl;
-            if (nums[j] - nums[i] == k) {
-                myPair.insert({nums[i], nums[j]});
-                i++;
-                j++;
-            } else if (nums[j] - nums[i] > k) {
-                i++;
-            } else {
-                j++;
-            }
-
-            if(i == j)
-            j++;
+        for(int i=0; i< nums.size(); i++)
+        {
+            if(bs(nums, i+1, nums[i]+k) != -1)
+            myPair.insert({nums[i], nums[i]+k});
         }
 
         return myPair.size();
