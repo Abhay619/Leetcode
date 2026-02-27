@@ -162,3 +162,19 @@ Small improvements compound.
 <p align="center">
 ⚡ SYSTEM ACTIVE — TRAINING MODE ENABLED ⚡
 </p>
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## String
+|  |
+| ------- |
+| [0761-special-binary-string](https://github.com/Abhay619/Leetcode/tree/master/0761-special-binary-string) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0761-special-binary-string](https://github.com/Abhay619/Leetcode/tree/master/0761-special-binary-string) |
+## Sorting
+|  |
+| ------- |
+| [0761-special-binary-string](https://github.com/Abhay619/Leetcode/tree/master/0761-special-binary-string) |
+<!---LeetCode Topics End-->
