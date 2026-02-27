@@ -169,6 +169,7 @@ Small improvements compound.
 |  |
 | ------- |
 | [0761-special-binary-string](https://github.com/Abhay619/Leetcode/tree/master/0761-special-binary-string) |
+| [3666-minimum-operations-to-equalize-binary-string](https://github.com/Abhay619/Leetcode/tree/master/3666-minimum-operations-to-equalize-binary-string) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -177,4 +178,20 @@ Small improvements compound.
 |  |
 | ------- |
 | [0761-special-binary-string](https://github.com/Abhay619/Leetcode/tree/master/0761-special-binary-string) |
+## Math
+|  |
+| ------- |
+| [3666-minimum-operations-to-equalize-binary-string](https://github.com/Abhay619/Leetcode/tree/master/3666-minimum-operations-to-equalize-binary-string) |
+## Breadth-First Search
+|  |
+| ------- |
+| [3666-minimum-operations-to-equalize-binary-string](https://github.com/Abhay619/Leetcode/tree/master/3666-minimum-operations-to-equalize-binary-string) |
+## Union-Find
+|  |
+| ------- |
+| [3666-minimum-operations-to-equalize-binary-string](https://github.com/Abhay619/Leetcode/tree/master/3666-minimum-operations-to-equalize-binary-string) |
+## Ordered Set
+|  |
+| ------- |
+| [3666-minimum-operations-to-equalize-binary-string](https://github.com/Abhay619/Leetcode/tree/master/3666-minimum-operations-to-equalize-binary-string) |
 <!---LeetCode Topics End-->
