@@ -181,6 +181,7 @@ Small improvements compound.
 ## Math
 |  |
 | ------- |
+| [1680-concatenation-of-consecutive-binary-numbers](https://github.com/Abhay619/Leetcode/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [3666-minimum-operations-to-equalize-binary-string](https://github.com/Abhay619/Leetcode/tree/master/3666-minimum-operations-to-equalize-binary-string) |
 ## Breadth-First Search
 |  |
@@ -194,4 +195,12 @@ Small improvements compound.
 |  |
 | ------- |
 | [3666-minimum-operations-to-equalize-binary-string](https://github.com/Abhay619/Leetcode/tree/master/3666-minimum-operations-to-equalize-binary-string) |
+## Bit Manipulation
+|  |
+| ------- |
+| [1680-concatenation-of-consecutive-binary-numbers](https://github.com/Abhay619/Leetcode/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
+## Simulation
+|  |
+| ------- |
+| [1680-concatenation-of-consecutive-binary-numbers](https://github.com/Abhay619/Leetcode/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 <!---LeetCode Topics End-->
