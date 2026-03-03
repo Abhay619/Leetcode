@@ -169,6 +169,7 @@ Small improvements compound.
 |  |
 | ------- |
 | [0761-special-binary-string](https://github.com/Abhay619/Leetcode/tree/master/0761-special-binary-string) |
+| [1545-find-kth-bit-in-nth-binary-string](https://github.com/Abhay619/Leetcode/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/Abhay619/Leetcode/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [3666-minimum-operations-to-equalize-binary-string](https://github.com/Abhay619/Leetcode/tree/master/3666-minimum-operations-to-equalize-binary-string) |
 ## Divide and Conquer
@@ -203,6 +204,7 @@ Small improvements compound.
 ## Simulation
 |  |
 | ------- |
+| [1545-find-kth-bit-in-nth-binary-string](https://github.com/Abhay619/Leetcode/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/Abhay619/Leetcode/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 ## Greedy
 |  |
@@ -217,4 +219,8 @@ Small improvements compound.
 |  |
 | ------- |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/Abhay619/Leetcode/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
+## Recursion
+|  |
+| ------- |
+| [1545-find-kth-bit-in-nth-binary-string](https://github.com/Abhay619/Leetcode/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 <!---LeetCode Topics End-->
