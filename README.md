@@ -187,6 +187,7 @@ Small improvements compound.
 ## Math
 |  |
 | ------- |
+| [1622-fancy-sequence](https://github.com/Abhay619/Leetcode/tree/master/1622-fancy-sequence) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/Abhay619/Leetcode/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/Abhay619/Leetcode/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3666-minimum-operations-to-equalize-binary-string](https://github.com/Abhay619/Leetcode/tree/master/3666-minimum-operations-to-equalize-binary-string) |
@@ -277,4 +278,12 @@ Small improvements compound.
 |  |
 | ------- |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/Abhay619/Leetcode/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
+## Design
+|  |
+| ------- |
+| [1622-fancy-sequence](https://github.com/Abhay619/Leetcode/tree/master/1622-fancy-sequence) |
+## Segment Tree
+|  |
+| ------- |
+| [1622-fancy-sequence](https://github.com/Abhay619/Leetcode/tree/master/1622-fancy-sequence) |
 <!---LeetCode Topics End-->
